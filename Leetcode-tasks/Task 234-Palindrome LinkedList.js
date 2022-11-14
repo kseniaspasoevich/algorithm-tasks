@@ -56,4 +56,5 @@ var isPalindrome22 = function(head) {
 };
 
 //console.log(isPalindrome([1, 2]));
-console.log(isPalindrome22([1, 2]));
+//console.log(isPalindrome([1, 2, 2, 1]));
+console.log(isPalindrome22([1, 2, 3]));
